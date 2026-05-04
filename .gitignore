@@ -1,0 +1,59 @@
+# =========================
+# General
+# =========================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Vue Frontend
+# =========================
+node_modules/
+dist/
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Spring Boot Backend
+# =========================
+target/
+build/
+out/
+.gradle/
+
+# Java compiled files
+*.class
+
+# Spring Boot artifacts
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+
+# Local application configs
+application-local.yml
+application-local.properties
+
+# =========================
+# OS Files
+# =========================
+Desktop.ini
