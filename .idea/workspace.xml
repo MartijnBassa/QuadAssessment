@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02d67f0e-4189-4829-be98-d09d06293b96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/quad/trivia/backend/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/quad/trivia/backend/dto/external/OpenTriviaApiResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/quad/trivia/backend/dto/request/QuestionDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/quad/trivia/backend/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/quad/trivia/backend/exception/TriviaErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/quad/trivia/backend/exception/TriviaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/__tests__/App.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/triviaForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/triviaForm.vue" afterDir="false" />
-    </list>
+    <list default="true" id="02d67f0e-4189-4829-be98-d09d06293b96" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +71,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/marti/Documents/GitHub/QuadAssessment",
@@ -176,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777924478887</updated>
       <workItem from="1777924479956" duration="5078000" />
-      <workItem from="1777975129869" duration="6568000" />
+      <workItem from="1777975129869" duration="7185000" />
     </task>
     <servers />
   </component>
