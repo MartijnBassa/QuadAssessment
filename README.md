@@ -124,7 +124,7 @@ Fetches a new quiz and stores the correct answers server-side.
   "results": [
     {
       "category": "General Knowledge",
-      "question": "When did the website "Facebook" launch?",
+      "question": "When did the website Facebook launch?",
       "options": ["2006", "2005", "2003", "2004"],
       "difficulty": "medium",
       "type": "multiple"
