@@ -54,6 +54,11 @@ application-local.yml
 application-local.properties
 
 # =========================
+# Intellij
+# =========================
+.idea\
+
+# =========================
 # OS Files
 # =========================
 Desktop.ini
