@@ -132,6 +132,15 @@ Fetches a new quiz and stores the correct answers server-side.
   ]
 }
 ```
+#### Example Requests
+
+```http
+GET http://localhost:8080/api/questions?amount=10
+```
+
+```http
+GET http://localhost:8080/api/questions?amount=10&category=10
+```
 
 ---
 
